@@ -67,6 +67,10 @@ def colorReduction(filename):
 
     saveRGB( Im_pix, filename.replace(".png", "_reduced.png")
 ```
+[Image Before Reduction](https://github.com/jpolacco/cryptography/blob/master/fox.png)
+
+[Image After Reduction](https://github.com/jpolacco/cryptography/blob/master/fox_reduced.png)
+
 
 ### Video List
 
